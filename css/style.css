@@ -38,3 +38,18 @@ p {
 blockquote {
   font-style: italic;
 }
+
+table{
+  text-align: center;
+  border: 2px solid silver;
+  border-collapse: collapse;
+  width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td, th {
+  border: 1px solid silver;
+}
+caption, th{
+  font-family: "Arial"
+}
